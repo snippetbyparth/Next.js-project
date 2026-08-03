@@ -22,5 +22,11 @@ export const employees = [
         name: "Bob",
         position: "Data Scientist",
         status: "Active",
+    },
+    {
+        id:5,
+        name: "Charlie",
+        position: "DevOps Engineer",
+        status: "Inactive",
     }
 ]
