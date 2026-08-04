@@ -29,4 +29,10 @@ export const employees = [
         position: "DevOps Engineer",
         status: "Inactive",
     }
+    {
+        id: 6,
+        name: "David",
+        position: "QA Engineer",
+        status: "Active",
+    }
 ]
